@@ -1,6 +1,13 @@
-吴江院校库爬虫
+<h1 align="center"><a href="https://github.com/JessyTsu1/Primary_students" target="_blank">吴江院校库爬虫</a></h1>
 
-https://school.wjszx.com.cn/senior/list.html
+<p align="center">
+<a href="https://github.com/JessyTsu1/Primary_students/issues"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-blue"/></a>
+<a href="https://github.com/JessyTsu1/Primary_students/issues"><img alt="stars" src="https://img.shields.io/github/stars/JessyTsu1/Primary_students"></a>
+<a href="https://github.com/JessyTsu1/Primary_students/issues"><img alt="PR" src="https://img.shields.io/badge/PRs-welcome-green"></a>
+<a href="https://github.com/JessyTsu1/Primary_students/issues"><img alt="Travis CI" src="https://img.shields.io/badge/build-done-blue"/></a>
+</p>
+
+
 
 帮朋友爬了个国内中小学学校信息，简单记录一下过程
 
