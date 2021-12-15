@@ -135,7 +135,8 @@ scrapy crawl stu -o stu.json
 
 
 
-最后json转Excel的代码没调好，用了一个在线转换https://wejson.cn/json2excel/，txt转Excel的代码是能用的
+最后json转Excel的代码没调好，直接用了一个在线转换：https://wejson.cn/json2excel/
+但是txt转Excel的代码是能用的
 
 
 
